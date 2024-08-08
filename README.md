@@ -1,4 +1,4 @@
-# 🦄 Uniprices
+# Getting current and historical Prices
 
 Get current and historical prices from **uniswap** decentralized exchange. Request prices by block number, by date, or request price trend for the last 6 months.
 
